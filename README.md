@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-(<a style="color:#fff" href="https://twitter.com/code_kareem"><img align="left" alt="code_kareem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>)
-(<a href="www.linkedin.com/in/abdulkareem-jimoh-bbb213142"><img align="left" alt="abdulkareem-jimoh-bbb213142 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>)
-(<a href="https://www.instagram.com/seniorteck_design/"><img align="left" alt="seniorteck_design | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>)
+<a style="color:#fff" href="https://twitter.com/code_kareem"><img align="left" alt="code_kareem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+<a href="https://www.linkedin.com/in/abdulkareem-jimoh-bbb213142/"><img align="left" alt="abdulkareem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="https://www.instagram.com/seniorteck_design/"><img align="left" alt="seniorteck_design | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 <br />
 
 
